@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Transparent Squares</title>
+<link rel="stylesheet" href="style1.css">
+</head>
+<body>
+<div class="square1"></div>
+<div class="square2"></div>
+<div class="square3"></div>
+<div class="square4"></div>
+</body>
+</html>
+
